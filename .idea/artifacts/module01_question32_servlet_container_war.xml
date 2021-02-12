@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="module01-question32-servlet-container:war">
+    <output-path>$PROJECT_DIR$/module01-question32/module01-question32-servlet-container/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>module01-question32-servlet-container</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="module01-question32-servlet-container-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="module01-question32-servlet-container:war exploded" />
+    </root>
+  </artifact>
+</component>
